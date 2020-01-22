@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "name": "qwertyrty",
+      "counter": 6
+    },
+    {
+      "id": 3,
+      "name": "JHASD",
+      "counter": 0
+    },
+    {
+      "id": 5,
+      "name": "edj",
+      "counter": 7
+    },
+    {
+      "id": 6,
+      "name": "bcd",
+      "counter": 0
+    },
+    {
+      "id": 8,
+      "name": "ghi",
+      "counter": 0
+    },
+    {
+      "id": 9,
+      "name": "def",
+      "counter": 0
+    }
+  ]
+}
